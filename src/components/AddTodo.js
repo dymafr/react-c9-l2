@@ -32,7 +32,7 @@ export default function AddTodo({ addTodo }) {
         className="mr-15 flex-fill"
         placeholder="Ajouter une tâche"
       />
-      <button onClick={handleClick} className="btn btn-prinmary">
+      <button onClick={handleClick} className="btn btn-primary">
         Ajouter
       </button>
     </div>
